@@ -6,13 +6,10 @@
 - Files are frequently committed to the repository (3 points).
 - Commit messages include an appropriate level of detail (2 points).
 - Repository is organized and includes relevant information and project files (3 points).
-
-Documentation (10 points)
-Code is well commented with concise, relevant notes (3 points).
-
-GitHub README file includes a concise project overview (2 points).
-
-GitHub README file includes detailed usage and installation instructions (2 points).
+- Documentation (10 points)
+- Code is well commented with concise, relevant notes (3 points).
+- GitHub README file includes a concise project overview (2 points).
+- GitHub README file includes detailed usage and installation instructions (2 points).
 
 GitHub README includes either examples of the application, or the results and a summary of the analysis (3 points).
 
