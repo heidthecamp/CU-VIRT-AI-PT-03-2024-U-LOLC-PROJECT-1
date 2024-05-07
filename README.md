@@ -3,7 +3,6 @@
 _Team Hefestus_
 
 
-
 ## Overview
 
 We are looking to see how several metrics affect air quality of an area.
