@@ -1,5 +1,5 @@
-# CU-VIRT-AI-PT-03-2024-U-LOLC-PROJECT-1
-
+# Correlations Between Air Quality & Several Factors
+![Air Quality Image](https://github.com/heidthecamp/CU-VIRT-AI-PT-03-2024-U-LOLC-PROJECT-1/assets/161158238/b3524d86-41ee-4252-9cb2-507c0617d2cf)
 _Team Hefestus_
 
 
