@@ -58,11 +58,16 @@ _Energy Used_
 
 
 ## Group Members
-Timothy Heidcamp
----Duane Anglin
+Timothy Heidcamp 
+
+Duane Anglin
+
 Matilda Wang
+
 Christian Leon
+
 Aniel Rios
+
 Wassam Qayyum
 
 
