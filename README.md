@@ -59,6 +59,16 @@ _Miles Traveled_
 _Energy Used_
 ![Energy Used](https://github.com/heidthecamp/CU-VIRT-AI-PT-03-2024-U-LOLC-PROJECT-1/assets/161158238/00bda8f5-578a-4d08-97b5-dbc1ad90e59d)
 
+## Conclusion
+
+
+## Group Members
+Timothy Heidcamp
+Duane Anglin
+Matilda Wang
+Christian Leon
+Aniel Rios
+Wassam Qayyum
 
 
 
