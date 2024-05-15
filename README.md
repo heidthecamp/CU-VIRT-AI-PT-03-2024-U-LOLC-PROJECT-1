@@ -59,7 +59,7 @@ _Energy Used_
 
 ## Group Members
 Timothy Heidcamp
-+++Duane Anglin
+---Duane Anglin
 Matilda Wang
 Christian Leon
 Aniel Rios
