@@ -4,15 +4,22 @@ _By Team Hephaestus_
 
 
 ## Overview
-Team Hephaestus conducted a thorough analysis of various metrics to evaluate their impacts on local air quality, with particular attention paid to walkability and vehicle density. The hypothesis is that areas with higher pedestrian - walkability may exhibit better air quality due to reduced reliance on motorized transportation, which can contribute to emissions. On the flip side, regions with increased vehicle presence could see elevated pollution levels resulting from exhaust emissions. 
-
+Team Hephaestus conducted a thorough analysis of various metrics to evaluate their impacts on local air quality, with particular attention paid to walkability and vehicle density. The hypothesis is that areas with higher pedestrian - walkability may exhibit better air quality due to reduced reliance on motorized transportation, which can contribute to emissions. On the flip side, regions with increased vehicle presence could see elevated pollution levels resulting from exhaust emissions.
 
 ## Dataset
+
 We will be using data from [data.gov](https://data.gov/).
 
 [FIPS to County](https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt)
 
 ## Outputs
+
+### Charging Station Density
+
+The following maps and charts show the charging station density and the car
+registraion percentage.  
+We were hoping to see how the density of charging stations might affect the
+percnetage of EV registraions in an area.
 
 _EV Charging Stations_
 ![EV Charging Stations](https://github.com/heidthecamp/CU-VIRT-AI-PT-03-2024-U-LOLC-PROJECT-1/assets/161158238/e3537aa2-2641-4818-953d-92dc30b39d4e)
@@ -25,6 +32,13 @@ _Percent of vehicles registered by Borough_
 
 _Fuel Type 2022-2024_
 ![FuelType 2022-2024](https://github.com/heidthecamp/CU-VIRT-AI-PT-03-2024-U-LOLC-PROJECT-1/assets/161158238/02738179-6bdf-4403-9cc9-911b8b096a76)
+
+#### Conclusion
+
+What is evident by these maps and the vehicle registation percentages is that as
+of 2022-2024 EV ownership percentage of a borough in NYC is not highly reflective.
+It seems that charging density and population denisty might be more closely
+corrolated. This would require further investigation.
 
 _Registration by Borough_
 ![Registration by borough over time](https://github.com/heidthecamp/CU-VIRT-AI-PT-03-2024-U-LOLC-PROJECT-1/assets/161158238/9a4e3835-f398-475c-991b-24503849d4ba)
