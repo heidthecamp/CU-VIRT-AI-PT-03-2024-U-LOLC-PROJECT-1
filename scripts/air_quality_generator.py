@@ -11,7 +11,7 @@ from datetime import datetime
 from ratelimit import limits, sleep_and_retry
 
 # set the directory for the output
-output_dir = 'Output'
+output_dir = '../Output'
 
 # set api key
 load_dotenv()
