@@ -4,7 +4,13 @@ _By Team Hephaestus_
 
 
 ## Overview
-Team Hephaestus conducted a thorough analysis of various metrics to evaluate their impacts on local air quality, with particular attention paid to walkability and vehicle density. The hypothesis is that areas with higher pedestrian - walkability may exhibit better air quality due to reduced reliance on motorized transportation, which can contribute to emissions. On the flip side, regions with increased vehicle presence could see elevated pollution levels resulting from exhaust emissions.
+Team Hephaestus conducted a thorough analysis of various metrics to
+evaluate their impacts on local air quality, with particular attention
+paid to walkability and vehicle density. The hypothesis is that areas with higher pedestrian - walkability may exhibit better air quality due to reduced reliance on motorized transportation, which can contribute to emissions. On the flip side, regions with increased vehicle presence could see elevated pollution levels resulting from
+exhaust emissions. The following presentation will involve statistical analysis and modeling to establish correlations between these factors and show the air quality recorded in different regions.
+We are looking to see how several metrics affect air quality of an area.
+
+
 
 ## Dataset
 
