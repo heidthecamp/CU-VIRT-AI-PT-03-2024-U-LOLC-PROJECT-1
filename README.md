@@ -1,15 +1,10 @@
 # Correlations Between Air Quality & Several Factors
 ![Air Quality Image](https://github.com/heidthecamp/CU-VIRT-AI-PT-03-2024-U-LOLC-PROJECT-1/assets/161158238/b3524d86-41ee-4252-9cb2-507c0617d2cf)
-_Team Hefestus_
+_ By Team Hephaestus_
 
 
 ## Overview
-Team Hephaestus conducted a thorough analysis of various metrics to
-evaluate their impacts on local air quality, with particular attention
-paid to walkability and vehicle density. The hypothesis is that areas with higher pedestrian - walkability may exhibit better air quality due to reduced reliance on motorized transportation, which can contribute to emissions. On the flip side, regions with increased vehicle presence could see elevated pollution levels resulting from
-exhaust emissions. The following presentation will involve statistical analysis and modeling to establish correlations between these factors and show the air quality recorded in different regions.
-We are looking to see how several metrics affect air quality of an area.
-
+Team Hephaestus conducted a thorough analysis of various metrics to evaluate their impacts on local air quality, with particular attention paid to walkability and vehicle density. The hypothesis is that areas with higher pedestrian - walkability may exhibit better air quality due to reduced reliance on motorized transportation, which can contribute to emissions. On the flip side, regions with increased vehicle presence could see elevated pollution levels resulting from exhaust emissions. 
 
 
 ## Dataset
