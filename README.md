@@ -14,9 +14,15 @@ We are looking to see how several metrics affect air quality of an area.
 
 ## Dataset
 
-We will be using data from [data.gov](https://data.gov/).
+We will be using data from:
+
+[data.gov](https://data.gov/)
 
 [FIPS to County](https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt)
+
+[SMART LOCATION DATABASE](https://www.epa.gov/system/files/documents/2023-10/epa_sld_3.0_technicaldocumentationuserguide_may2021_0.pdf)
+
+[National Walkability Index Methodology and User Guide](https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf)
 
 ## Outputs
 
