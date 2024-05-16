@@ -22,8 +22,9 @@ airnow_base_url = "http://www.airnowapi.org/aq/observation/zipCode/historical/?f
 
 air_quality = pd.read_csv(os.path.join(output_dir, 'air_quality.csv'))
 
-# set the zip codes
+# set the zip codes and distance
 zip_codes = ['12261', '14620']
+miles = 100
 
 CALLS = 8
 PERIOD = 60
@@ -55,7 +56,6 @@ def get_air_now_data(zip_code, year, month, day, distance, calls=0):
     data = response.json()
     return data
 
-miles = 100
 for zip_code in zip_codes:
     for year in range(2020, 2023):
         for month in range(1, 13):
