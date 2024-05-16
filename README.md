@@ -33,6 +33,38 @@ matplotlib: `pip install matplotlib`
 ratelimit: `pip install ratelimit`
 folium: `pip install folium`
 
+## Required API Keys
+
+copy the `example.env` and create you own `.env` file with the proper keys.
+`API_KEY_FOR_EV_STATION="{KEY_FROM_https://developer.nrel.gov/}"`
+`AIR_NOW_API_KEY="{KEY FROM https://docs.airnowapi.org/}"`
+
+## Usage
+
+### Air quality script
+
+To create new air quality indexes for new locations first fine the zip code
+closest to the center of the location you are looking to document, set the
+zip_codes list to in include your new zip code(s) and set the miles to be the
+area in which you are looking to encompass. From the root directory run the file
+using python.  
+`python ./scripts/air_quality_generator.py`
+
+### Displaying Data
+
+The `displaying_data` notebook is the one of the primary notebooks used to generate
+the files for this project. Run that in jupyter notebook.
+
+### EV Charging
+
+The `ev_charging_station_with_map` notebook was the used to generate EV charging
+station data for the project and the maps that coincide.
+
+### Walkablity
+
+The to generate walkability run the `Walkability Exploration` notebook in the
+`exploration_notebooks` directory.
+
 ## Outputs
 
 ### Charging Station Density
