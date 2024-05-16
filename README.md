@@ -1,16 +1,15 @@
 # Correlations Between Air Quality & Several Factors
+
 ![Air Quality Image](https://github.com/heidthecamp/CU-VIRT-AI-PT-03-2024-U-LOLC-PROJECT-1/assets/161158238/b3524d86-41ee-4252-9cb2-507c0617d2cf)
 _By Team Hephaestus_
 
-
 ## Overview
+
 Team Hephaestus conducted a thorough analysis of various metrics to
 evaluate their impacts on local air quality, with particular attention
 paid to walkability and vehicle density. The hypothesis is that areas with higher pedestrian - walkability may exhibit better air quality due to reduced reliance on motorized transportation, which can contribute to emissions. On the flip side, regions with increased vehicle presence could see elevated pollution levels resulting from
 exhaust emissions. The following presentation will involve statistical analysis and modeling to establish correlations between these factors and show the air quality recorded in different regions.
 We are looking to see how several metrics affect air quality of an area.
-
-
 
 ## Dataset
 
@@ -18,7 +17,7 @@ We will be using data from [data.gov](https://data.gov/).
 
 [FIPS to County](https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt)
 
-[Air Now.org](https://docs.airnowapi.org) 
+[Air Now.org](https://docs.airnowapi.org)
 
 [Air Quality Index](https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf)
 
@@ -26,6 +25,13 @@ We will be using data from [data.gov](https://data.gov/).
 
 [EV Charging Stations](https://developer.nrel.gov/)
 
+## Required packages
+
+Pandas: `pip install pandas`
+numpy: `pip install numpy`
+matplotlib: `pip install matplotlib`
+ratelimit: `pip install ratelimit`
+folium: `pip install folium`
 
 ## Outputs
 
