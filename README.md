@@ -18,6 +18,15 @@ We will be using data from [data.gov](https://data.gov/).
 
 [FIPS to County](https://transition.fcc.gov/oet/info/maps/census/fips/fips.txt)
 
+[Air Now.org](https://docs.airnowapi.org) 
+
+[Air Quality Index](https://www.epa.gov/sites/default/files/2021-06/documents/national_walkability_index_methodology_and_user_guide_june2021.pdf)
+
+[SMART LOCATION DATABASE TECHNICAL DOCUMENTATION AND USER GUIDE](https://www.epa.gov/system/files/documents/2023-10/epa_sld_3.0_technicaldocumentationuserguide_may2021_0.pdf)
+
+[EV Charging Stations](https://developer.nrel.gov/)
+
+
 ## Outputs
 
 ### Charging Station Density
