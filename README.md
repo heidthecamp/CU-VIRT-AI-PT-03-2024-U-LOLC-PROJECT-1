@@ -25,6 +25,11 @@ We will be using data from [data.gov](https://data.gov/).
 
 [EV Charging Stations](https://developer.nrel.gov/)
 
+## Required installations
+
+git-lfs: You will need to install git lfs to use the datasets we have prepared.  
+`https://git-lfs.com/`
+
 ## Required packages
 
 Pandas: `pip install pandas`
